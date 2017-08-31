@@ -1,7 +1,8 @@
 Interview Cheat Sheet
 ======
 
-# Data Structures
+Data Structures
+------
 
 ### **Array**
 #### Definition:

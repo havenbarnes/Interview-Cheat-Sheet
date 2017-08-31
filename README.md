@@ -1,9 +1,6 @@
 Interview Cheat Sheet
 ======
 
-
-
-
 Data Structures
 ------
 
@@ -51,7 +48,6 @@ Data Structures
 - Optimized Search: Linked Lists: O(n)
 - Insertion:        Linked Lists: O(1)  
 
-
 ### **Hash Table or Hash Map**
 #### Definition: 
 - Stores data with key value pairs.
@@ -70,7 +66,6 @@ Data Structures
 - Indexing:         Hash Tables: O(1)
 - Search:           Hash Tables: O(1)
 - Insertion:        Hash Tables: O(1)  
-
 
 ### **Binary Tree**
 #### Definition: 
@@ -92,9 +87,6 @@ Data Structures
 - Indexing:  Binary Search Tree: O(log n)
 - Search:    Binary Search Tree: O(log n)
 - Insertion: Binary Search Tree: O(log n) 
-
-
-
 
 Search
 ------
@@ -137,7 +129,6 @@ Search
 - E is number of edges
 - V is number of vertices
 
-
 #### Breadth First Search Vs. Depth First Search
 - The simple answer to this question is that it depends on the size and shape of the tree.
   - For wide, shallow trees use Breadth First Search
@@ -148,9 +139,6 @@ Search
   - If using a DFS on a tree that is very deep you might go unnecessarily deep in the search. See [xkcd](http://xkcd.com/761/) for more information.
   - Breadth First Search tends to be a looping algorithm.
   - Depth First Search tends to be a recursive algorithm.
-
-
-
 
 Sorting
 ------
@@ -209,9 +197,6 @@ Sorting
 - Merge Sort divides the set into the smallest possible groups immediately then reconstructs the incrementally as it sorts the groupings.
 - Quicksort continually divides the set by the average, until the set is recursively sorted.
 
-
-
-
 Algorithms
 ------
 
@@ -227,7 +212,6 @@ Algorithms
   - It means that your base case was never triggered because it was faulty or the problem was so massive you ran out of RAM before reaching it.
   - Knowing whether or not you will reach a base case is integral to correctly using recursion.
   - Often used in Depth First Search
-
 
 ### **Iterative Algorithms**
 #### Definition:

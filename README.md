@@ -91,7 +91,9 @@ Data Structures
 - Insertion: Binary Search Tree: O(log n) 
 
 
-# Search
+Search
+------
+
 ### **Breadth First Search**
 #### Definition:
 - An algorithm that searches a tree (or graph) by searching levels of the tree first, starting at the root.
@@ -143,7 +145,9 @@ Data Structures
   - Depth First Search tends to be a recursive algorithm.
 
 
-# Sorting
+Sorting
+------
+
 ### **Merge Sort**
 #### Definition:
 - A comparison based sorting algorithm
@@ -198,7 +202,9 @@ Data Structures
 - Merge Sort divides the set into the smallest possible groups immediately then reconstructs the incrementally as it sorts the groupings.
 - Quicksort continually divides the set by the average, until the set is recursively sorted.
 
-# Algorithms
+Algorithms
+------
+
 ### **Recursive Algorithms**
 #### Definition:
 - An algorithm that calls itself in its definition.

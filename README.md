@@ -1,4 +1,4 @@
-# Interview Cheat Sheet
+Interview Cheat Sheet
 ======
 
 # Data Structures
